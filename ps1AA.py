@@ -30,4 +30,4 @@ while(current_saving <= down_payment):
 
 print("It will take " + str(month) + " months to save up" )
  
-#I added a comment 
+
